@@ -1,0 +1,15 @@
+com.foreach.across.modules.spring.security.acl
+com.foreach.across.modules.spring.security.acl.aop
+com.foreach.across.modules.spring.security.acl.business
+com.foreach.across.modules.spring.security.acl.config
+com.foreach.across.modules.spring.security.acl.config.modules
+com.foreach.across.modules.spring.security.acl.extensions
+com.foreach.across.modules.spring.security.acl.infrastructure
+com.foreach.across.modules.spring.security.acl.installers
+com.foreach.across.modules.spring.security.acl.repositories
+com.foreach.across.modules.spring.security.acl.services
+com.foreach.across.modules.spring.security.acl.strategy
+com.foreach.across.modules.spring.security.acl.support
+com.foreach.across.modules.spring.security.acl.ui
+com.foreach.across.modules.spring.security.acl.ui.icons
+com.foreach.across.modules.spring.security.acl.validators
