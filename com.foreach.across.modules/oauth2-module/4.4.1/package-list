@@ -1,0 +1,12 @@
+com.foreach.across.modules.oauth2
+com.foreach.across.modules.oauth2.business
+com.foreach.across.modules.oauth2.config
+com.foreach.across.modules.oauth2.config.aop
+com.foreach.across.modules.oauth2.config.security
+com.foreach.across.modules.oauth2.controllers
+com.foreach.across.modules.oauth2.dto
+com.foreach.across.modules.oauth2.extensions
+com.foreach.across.modules.oauth2.installers
+com.foreach.across.modules.oauth2.repositories
+com.foreach.across.modules.oauth2.services
+com.foreach.across.modules.oauth2.validators

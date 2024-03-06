@@ -1,0 +1,13 @@
+com.foreach.across.modules.filemanager
+com.foreach.across.modules.filemanager.business
+com.foreach.across.modules.filemanager.business.reference
+com.foreach.across.modules.filemanager.business.reference.properties
+com.foreach.across.modules.filemanager.business.support
+com.foreach.across.modules.filemanager.config
+com.foreach.across.modules.filemanager.context
+com.foreach.across.modules.filemanager.extensions
+com.foreach.across.modules.filemanager.installers
+com.foreach.across.modules.filemanager.services
+com.foreach.across.modules.filemanager.utils
+com.foreach.across.modules.filemanager.views.bootstrapui
+com.foreach.across.modules.filemanager.web
