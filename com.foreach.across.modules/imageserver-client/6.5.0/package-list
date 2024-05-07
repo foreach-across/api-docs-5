@@ -1,0 +1,4 @@
+com.foreach.imageserver.client
+com.foreach.imageserver.dto
+com.foreach.imageserver.logging
+com.foreach.imageserver.math
